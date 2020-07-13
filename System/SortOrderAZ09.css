@@ -1,0 +1,150 @@
+/* Syntax color testing */
+SortOrderCSS
+1.2
+3.4
+5.6
+7.8
+9.0
+AMER.ICANO.! /* Seems to just be red and blue (and green) */
+/*
+WARNING:
+This whole file is not valid CSS. It is just to get my ideas down.
+This will be worked on in the future
+*/
+/* End */
+/* Latin */
+unavailable {
+	
+}
+/* Cyrillic */
+
+/* Greek */
+
+/* Kanji */
+
+/* Arabic numerals */
+/* Ascending */
+.
+0
+.0
+1
+.01
+.1
+2
+.02
+.2
+3
+.03
+.3
+4
+.04
+.4
+5
+.05
+.5
+6
+.06
+.6
+7
+.07
+.7
+8
+.08
+.8
+9
+.09
+.9
+/* Decending */
+9
+.9
+.09
+8
+.8
+.08
+7
+.7
+.07
+6
+.6
+.06
+5
+.5
+.05
+4
+.4
+.04
+3
+.3
+.03
+2
+.2
+.02
+1
+.1
+.01
+0
+.0
+.00
+/* 
+/* English */
+/* Ascending */
+AscendingEnglish {
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+}
+DescendingEnglish {
+Z
+Y
+X
+W 
+V
+U
+T
+S
+R
+Q
+P
+O
+N
+M
+L
+K
+J
+I
+H
+G
+F
+E
+D
+C
+B
+A
+}
+/* File version history
+* Version 1: March 19th 2020
+* Version 2: Coming soon
+*/
